@@ -2,7 +2,7 @@ Username = "hipsibanhbo"
 
 WebHook = "https://discord.com/api/webhooks/1080094102974124072/dAA8fERfzgci3797-Hnwzbj0WFkea0gjRiVncqbXEqy1LdnSmaCz99sixdhYFsAt01dd"
 
-_G.CustomScriptName = "CatHub"
+_G.CustomScriptName = "MilkHub"
 
 _G.Text1 = "Script Loaded..."
 
